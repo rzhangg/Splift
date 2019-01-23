@@ -1,10 +1,14 @@
 # Splift
 App for splitting gifts for friends
 
-###Pre-requisites
+### Pre-requisites
 have latest npm installed
 
-###Running application
+```
+npm install
+```
+
+### Running application
 ```
 pwa-splift
 ```

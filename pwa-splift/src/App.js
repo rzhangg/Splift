@@ -13,7 +13,7 @@ const Page = ({ title }) => (
       Main Page
     </p>
     <p>
-      <Link to="/">Splift</Link>
+      <Link to="/">Home</Link>
     </p>
     <p>
       <Link to="/about">About</Link>
